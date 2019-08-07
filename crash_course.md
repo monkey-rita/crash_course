@@ -115,3 +115,16 @@ Morrison是前几天才去世的美国黑人小说家，曾获诺贝尔奖。
 状态：完成，共48集，平均11min每集
 
 生理与解剖学，wow，真的感兴趣。
+
+## [Astronomy](https://www.youtube.com/watch?v=0rHUDWjR5gg&list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL)
+
+状态：完成，共47集，平均12min每集
+
+星相学，emmm，我要从星图中读出我的命运！（并不）
+
+## [U.S. Government and Politics](https://www.youtube.com/watch?v=lrk4oY7UxpQ&list=PL8dPuuaLjXtOfse2ncvffeelTrqvhrz8H)
+
+状态：完成，共50集，平均10min每集
+
+之前看过美国总统制，感觉是个不错的系统，再之后看政治类的书籍就比之前有点趣味了。
+
