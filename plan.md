@@ -9,7 +9,7 @@
 1. [Economics](https://www.youtube.com/watch?v=3ez10ADR_gM&list=PL8dPuuaLjXtPNZwz5_o_5uirJ8gQXnhEO) 0/35
 2. [Statistics](https://www.youtube.com/watch?v=zouPoc49xbk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr) 0/45
 3. [Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) 0/41
-4. [Astronomy](https://www.youtube.com/watch?v=0rHUDWjR5gg&list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL) 0/47
+4. [Anatomy & Physiology](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOAKed_MxxWBNaPno5h3Zs8) 0/47
 
 ### 历史类
 
