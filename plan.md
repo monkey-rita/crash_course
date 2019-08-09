@@ -14,7 +14,7 @@
 ### 历史类
 
 1. [History of Science](https://www.youtube.com/watch?v=-hjGgFgnYIA&list=PL8dPuuaLjXtNppY8ZHMPDH5TKK2UpU8Ng) 0/47
-2. [World History](https://www.youtube.com/watch?v=Yocja_N5s1I&list=PLBDA2E52FB1EF80C9) 0/42
+2. [World History](https://www.youtube.com/watch?v=Yocja_N5s1I&list=PLBDA2E52FB1EF80C9) 1/42
 
 ### 其他类
 
