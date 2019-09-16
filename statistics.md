@@ -27,3 +27,7 @@ LOL, true XD
 - Thinking mathematically isn't just about understanding numbers better. It's about asking important questions about the world around us. And letting numbers illuminate those questions.
 
 - 二战时，统计学家们研究归来飞机的损伤位置，来改进飞机防御区域，他们发现油箱被击中的频率比引擎高得多，其中一个提出建议：在引擎上加装装甲，Well，假设空中射击各个受伤点是均匀的，那么油箱受伤的还能回来，其他地方受伤的就坠毁了，以上。
+
+## 19-8-21 Mean, Median, and Mode: Measures of Central Tendency
+
+- 
